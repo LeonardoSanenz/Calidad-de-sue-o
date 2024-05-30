@@ -1,6 +1,4 @@
-<center>
-## Informe de Calidad de Sueño y Análisis de Datos Fisiológicos `<center>`
-</center>
+
 <h2 style="text-align: center;">Informe de Calidad de Sueño y Análisis de Datos Fisiológicos</h2>
 Este proyecto analiza la relación entre diferentes parámetros fisiológicos y la calidad del sueño de un grupo de individuos. Los datos incluyen variables como la duración del sueño, la calidad del sueño, el nivel de actividad física, el nivel de estrés, la frecuencia cardíaca, los pasos diarios, y las presiones arteriales sistólica y diastólica.
 
